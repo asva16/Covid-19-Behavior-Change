@@ -6,6 +6,10 @@ The data used in the analysis of the relationship between variables comes from a
 
 These variables would be used as the predictors while compliance level would be used as the respond.
 
+This is how the data looks like:
+![image](https://user-images.githubusercontent.com/48485276/198921639-4d355461-08da-43a7-b179-5d2c9ac06d7f.png)
+
+
 ### Chi-Square Independent Test
 The first analysis used chi-square test to determine the relationship between the predictors and the respond variable.
 ![image](https://user-images.githubusercontent.com/48485276/198920574-227f9f6e-e454-467c-9b10-8fccf7de70af.png)
