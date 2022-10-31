@@ -9,7 +9,7 @@ These variables would be used as the predictors while compliance level would be 
 This is how the data looks like:
 ![image](https://user-images.githubusercontent.com/48485276/198921639-4d355461-08da-43a7-b179-5d2c9ac06d7f.png)
 
-
+## Analysis
 ### Chi-Square Independent Test
 The first analysis used chi-square test to determine the relationship between the predictors and the respond variable.
 ![image](https://user-images.githubusercontent.com/48485276/198920574-227f9f6e-e454-467c-9b10-8fccf7de70af.png)
@@ -48,3 +48,11 @@ People who always keep their distance tend to think of 3M as something that is s
 The last analysis implements multinomial regression to test the effect of the predictor variable on the response variable. The regression results give the results in the form of 5 variables that are significant to the level of compliance, namely knowledge of the 3M program, perception of the level of effectiveness of 3M, frequency of using masks, frequency of carrying hand sanitizer, and frequency of maintaining distance. People who know the 3M protocol have a tendency to be more obedient than people who do not know the 3M protocol. The level of community compliance is directly proportional to the frequency of using masks. The tendency of people who always use masks > people who sometimes use masks > people who very rarely use masks > people who never use masks. Similarly, keeping a distance, the level of compliance is also directly proportional to keeping a distance. The tendency to obey people who always keep their distance > people who sometimes keep their distance > people who never keep their distance.
 
 ![image](https://user-images.githubusercontent.com/48485276/198921032-64e72894-8b5e-4a6a-b036-7371f304b6b9.png)
+
+## Conclusion and Suggestions
+### Conclusion
+1.	People who have implemented the 3M protocol and have confidence in the effectiveness of 3M tend to believe that the 3M protocol is important to continue to be implemented.
+2.	The highest level of compliance with the application of health protocols is found in the application of the protocol wearing masks.
+
+### Suggestion
+The strategy to increase knowledge about Covid-19 and the dangers of Covid-19 must be adjusted to the targets, such as for groups of people who do not know 3M, which are dominated by respondents who did not graduate from elementary school.
