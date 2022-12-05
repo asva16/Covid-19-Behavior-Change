@@ -1,5 +1,6 @@
 # Covid-19-Behavior-Change
 Analysis of Covid-19 Behavior Change in Surabaya Raya (Surabaya, Sidoarjo, Gresik, Mojokerto)
+This analysis was performed using a sample data, the full analysis was already published somewhere else.
 
 The data used in the analysis of the relationship between variables comes from an offline survey, namely:
 ![image](https://user-images.githubusercontent.com/48485276/198920314-58dde7df-3669-4966-b9df-3b280a26dfdf.png)
